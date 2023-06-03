@@ -1,0 +1,21 @@
+{
+  "name": "wetherapp",
+  "version": "1.0.0",
+  "description": "city and temp",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "temprature"
+  ],
+  "author": "Shaik Abdul Rahiman",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
